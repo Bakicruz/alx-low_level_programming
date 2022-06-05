@@ -2,8 +2,9 @@
 #include <time.h>
 #include <stdio.h>
 /**
-* main: Assign random number to the variable n each time it is executed
-* Return: always 0 (success)
+*main - Assign random number to the variable n each time it is executed
+*and prints out
+*Return: always 0 (success)
 */
 int main(void)
 {
